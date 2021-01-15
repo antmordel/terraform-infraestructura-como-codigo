@@ -1,0 +1,14 @@
+name: 'Terraform Code Checks'
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  terraform-fmt:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: hashicorp/setup-terraform@v1
+    - run: terraform fmt -check -diff -recursive
