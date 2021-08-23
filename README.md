@@ -16,13 +16,13 @@
 | | [:link: Crear un servidor en EC2 (3)](./3-infra-con-terraform/12-crear-servidor-3) |
 | | [:link: Crear un servidor en EC2 (4)](./3-infra-con-terraform/13-crear-servidor-4) |
 | | [:link: Crear un servidor en EC2 (5)](./3-infra-con-terraform/14-crear-servidor-5) |
-| | [:link: Terraform Provider VS Terraform Resource](./3-infra-con-terraform/14-tf-provider-tf-resource) |
-| | [:link: Terraform Outputs](./3-infra-con-terraform/19-terraform-outputs) |
-| | [:link: Crear Load Balancer (1)](./3-infra-con-terraform/21-load-balancer-1) |
-| | [:link: Crear Load Balancer (2)](./3-infra-con-terraform/22-load-balancer-2) |
-| | [:link: Crear Load Balancer (3)](./3-infra-con-terraform/23-load-balancer-3) |
-| | [:link: Crear Load Balancer (4)](./3-infra-con-terraform/24-load-balancer-4) |
-| | [:link: Crear Load Balancer (5)](./3-infra-con-terraform/25-load-balancer-5) |
+| | [:link: Terraform Provider VS Terraform Resource](./3-infra-con-terraform/15-tf-provider-tf-resource) |
+| | [:link: Terraform Outputs](./3-infra-con-terraform/20-terraform-outputs) |
+| | [:link: Crear Load Balancer (1)](./3-infra-con-terraform/22-load-balancer-1) |
+| | [:link: Crear Load Balancer (2)](./3-infra-con-terraform/23-load-balancer-2) |
+| | [:link: Crear Load Balancer (3)](./3-infra-con-terraform/24-load-balancer-3) |
+| | [:link: Crear Load Balancer (4)](./3-infra-con-terraform/25-load-balancer-4) |
+| | [:link: Crear Load Balancer (5)](./3-infra-con-terraform/26-load-balancer-5) |
 | [:four: **Infraestructura Reutilizable: Módulos**](./4-infra-reutilizable) | |
 | | [:link: Variables](./4-infra-reutilizable/30-variables) |
 | | [:link: Variables Cheatsheet](./4-infra-reutilizable/31-variables-cheatsheet) |
