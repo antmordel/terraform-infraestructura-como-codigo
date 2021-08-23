@@ -12,7 +12,7 @@
 | [:link: Bucles con Count](./35-bucles-count) |
 | [:link: Bucles con For_each](./36-bucles-foreach) |
 | [:link: Expresiones For](./38-expresiones-for) |
-| [:link: Expresiones Splat](./39-expresiones-plat) |
+| [:link: Expresiones Splat](./39-expresiones-splat) |
 | [:link: Variables local](./40-variables-local) |
 | [:link: Refactorizar Load Balancer](./41-refactorizar-load-balancer) |
 | [:link: Implementar Módulos](./44-implementar-modulos) |
