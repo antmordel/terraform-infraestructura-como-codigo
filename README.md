@@ -12,10 +12,10 @@
 | **Introducción** |           |
 | **Pre-requisitos del curso** | |
 | [:three: **Infraestructura con Terraform**](./3-infra-con-terraform) | |
-| | [:link: Crear un servidor en EC2 (2)](./3-infra-con-terraform/10-crear-servidor-2) |
-| | [:link: Crear un servidor en EC2 (3)](./3-infra-con-terraform/11-crear-servidor-3) |
-| | [:link: Crear un servidor en EC2 (4)](./3-infra-con-terraform/12-crear-servidor-4) |
-| | [:link: Crear un servidor en EC2 (5)](./3-infra-con-terraform/13-crear-servidor-5) |
+| | [:link: Crear un servidor en EC2 (2)](./3-infra-con-terraform/11-crear-servidor-2) |
+| | [:link: Crear un servidor en EC2 (3)](./3-infra-con-terraform/12-crear-servidor-3) |
+| | [:link: Crear un servidor en EC2 (4)](./3-infra-con-terraform/13-crear-servidor-4) |
+| | [:link: Crear un servidor en EC2 (5)](./3-infra-con-terraform/14-crear-servidor-5) |
 | | [:link: Terraform Provider VS Terraform Resource](./3-infra-con-terraform/14-tf-provider-tf-resource) |
 | | [:link: Terraform Outputs](./3-infra-con-terraform/19-terraform-outputs) |
 | | [:link: Crear Load Balancer (1)](./3-infra-con-terraform/21-load-balancer-1) |
