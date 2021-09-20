@@ -1,6 +1,6 @@
 # Terraform: Infraestructura como Código
 
-> **Este repositorio contiene el material de soporte y ejercicios del curso [_Terraform: Infraestructura como código_](https://www.udemy.com/course/terraform-infraestructura-como-codigo/?couponCode=SEPTIEMBRENITO)
+> **Este repositorio contiene el material de soporte y ejercicios del curso [_Terraform: Infraestructura como código_](https://links.nito.dev/terraform)
 > ofrecido en Udemy <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" width="50">**
 
 
