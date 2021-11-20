@@ -1,4 +1,4 @@
-# Backend en S3 
+# Renombrar un recurso 
 
 [`^ volver a la sección ^`](../)
 
