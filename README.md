@@ -39,7 +39,7 @@ Si quiere acceder al link con mayor descuento actual, pulse [aquí](https://link
 | | [:link: Implementar Módulos](./4-infra-reutilizable/44-implementar-modulos) |
 | | [:link: Diferentes entornos](./4-infra-reutilizable/47-diferentes-entornos) |
 | | [:link: Usar módulos OS](./4-infra-reutilizable/48-usar-modulos-os) |
-| | [:five: **Terraform State**](./5-terraform-state) | |
+| [:five: **Terraform State**](./5-terraform-state) | |
 | | [:link: Backend S3](./5-terraform-state/53-backend-s3) |
 | | [:link: Terraform Graph](./5-terraform-state/56-terraform-graph) |
 | | [:link: Importar infraestructura](./5-terraform-state/57-importar-infraestructura) |
