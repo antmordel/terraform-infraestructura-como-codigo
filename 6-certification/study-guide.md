@@ -5,5 +5,9 @@ Hashicorp](https://learn.hashicorp.com/tutorials/terraform/associate-review?in=t
 
 ## 1. Understand Infrastructure as Code (IaC) concepts
 
-**Explain what IaC is**
+**1.a Explain what IaC is**
 [Se cuenta en nuestro vídeo sobre](http://todo)
+
+**1.b Describe advantages of IaC patterns**
+
+## 2. Understand Terraform's purpose (vs other IaC)
