@@ -5,6 +5,14 @@ provider "aws" {
   region = "eu-west-1"
 }
 
+# ----------------------------------------------------
+# Data Source para obtener el ID de la VPC por defecto
+# ----------------------------------------------------
+data "aws_vpc" "default" {
+  default = true
+}
+
+
 # ---------------------------------------
 # Define una instancia EC2 con AMI Ubuntu
 # ---------------------------------------
@@ -26,8 +34,8 @@ resource "aws_instance" "mi_servidor" {
 # Define un grupo de seguridad con acceso al puerto 8080
 # ------------------------------------------------------
 resource "aws_security_group" "mi_grupo_de_seguridad" {
-  name = "primer-servidor-sg"
-
+  name   = "primer-servidor-sg"
+  vpc_id = data.aws_vpc.default.id
   ingress {
     cidr_blocks = ["0.0.0.0/0"]
     description = "Acceso al puerto 8080 desde el exterior"
