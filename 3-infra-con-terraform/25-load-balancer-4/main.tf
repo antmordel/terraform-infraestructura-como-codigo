@@ -91,7 +91,7 @@ resource "aws_lb" "alb" {
 # Security group para el Load Balancer
 # ------------------------------------
 resource "aws_security_group" "alb" {
-  name = "alb-sg"
+  name   = "alb-sg"
   vpc_id = data.aws_vpc.default.id
   ingress {
     cidr_blocks = ["0.0.0.0/0"]
