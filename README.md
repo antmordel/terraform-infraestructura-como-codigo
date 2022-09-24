@@ -44,3 +44,7 @@ Si quiere acceder al link con mayor descuento actual, pulse [aquí](https://link
 | | [:link: Terraform Graph](./5-terraform-state/56-terraform-graph) |
 | | [:link: Importar infraestructura](./5-terraform-state/57-importar-infraestructura) |
 | | [:link: Renombrar un recurso](./5-terraform-state/58-renombrar-recurso) |
+
+### Contribuidores
+Agradecer a antiguos alumnos que han aportado su granito de arena para mejorar este repositorio:
+- Felix Ernesto Orduz: [@felix-orduz](https://github.com/felix-orduz)
